@@ -1,3 +1,3 @@
-# Aplikasi Belanja
+# Aplikasi Catatan Belanja
 
-Aplikasi belanja yang simple yang diterapkam didalam react
+Aplikasi catatan belanja yang simple yang diterapkam didalam react
